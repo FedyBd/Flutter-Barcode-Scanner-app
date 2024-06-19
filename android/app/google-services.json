@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567694807515",
+    "project_id": "barcode-scanner-app-3af3b",
+    "storage_bucket": "barcode-scanner-app-3af3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567694807515:android:4ae5dfc83f530a9e6ad7fe",
+        "android_client_info": {
+          "package_name": "com.example.barcode_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7wf0EAhde9_1KcSDhzidB2YOJu0onZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

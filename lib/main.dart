@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_barcode_scanner/flutter_barcode_scanner.dart';
-
-void main() {
+void main() async {
   runApp(MaterialApp(
-    title: 'Barcode Scanner',
-    home: MyApp(),
+      title: 'Barcode Scanner',
+      home: MyApp()
   ));
 }
 
@@ -61,3 +60,6 @@ class _MyAppState extends State<MyApp> {
     ),
   );
 }
+
+
+
